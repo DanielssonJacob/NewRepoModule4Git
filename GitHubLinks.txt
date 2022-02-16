@@ -1,0 +1,8 @@
+GitRepo with some java classes:
+https://github.com/DanielssonJacob/CheckpointGitModule4
+
+Forked project Spoon-Knife:
+https://github.com/DanielssonJacob/Spoon-Knife
+
+The new GitHub repository:
+https://github.com/DanielssonJacob/NewRepoModule4Git
